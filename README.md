@@ -23,7 +23,6 @@
         <img src="https://img.shields.io/badge/C++-05122A?logo=cplusplus&logoColor=00599C&style=for-the-badge" />
       </p>
       <div>
-        <!-- صف أيقونات كبيرة -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" />
@@ -43,7 +42,6 @@
         <img src="https://img.shields.io/badge/UI%2FUX-Strategy%20%7C%20Wireframes%20%7C%20Prototypes-222?style=for-the-badge" />
       </p>
       <div>
-        <!-- صف أيقونات كبيرة -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="34" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="34" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="34" />
@@ -75,10 +73,3 @@
   <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
 </div>
-
-<br/>
-
-<!-- ======= Fun line (اختياري) ======= -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-</p>
