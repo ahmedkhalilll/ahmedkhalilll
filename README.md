@@ -66,10 +66,38 @@
 <br/>
 
 <!-- ======= Socials ======= -->
+<!-- ======= Contact / Socials ======= -->
+<!-- ======= Contact / Socials (Updated with Discord User ID) ======= -->
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+
+  <!-- Gmail -->
+  <a href="mailto:ahmed575khalil@gmail.com?subject=Hello%20Ahmed&body=Hi%2C%20I%27m%20coming%20from%20your%20GitHub%20README" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
+  </a>
+
+  <!-- WhatsApp (Egypt +20) -->
+  <a href="https://wa.me/201032196358?text=Hi%20Ahmed%2C%20I%27m%20coming%20from%20your%20GitHub%20README" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/ahmed.khvlil/?igsh=OWx6cmFtdjRmZnFy" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
+  </a>
+
+  <!-- X (Twitter) -->
+  <a href="https://x.com/ahmedkhvlil20?t=_OXogO8PPcF-xhc_i-YBIA&s=09" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" alt="X" />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/vkhalilPablo?rdid=ubxGi1rziErc5o0H&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1CvBwe1kHo%2F" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
+  </a>
+
+  <!-- Discord (direct profile link) -->
+  <a href="https://discord.com/users/485401953715617792" target="_blank" rel="noreferrer" title="Discord: ahmed.khvlil">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
+  </a>
+
 </div>
