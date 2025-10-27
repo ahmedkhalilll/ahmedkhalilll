@@ -1,79 +1,84 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
+<!-- ======= Header ======= -->
+<h2 align="center">Hi 👋! I'm <strong>...</strong> — a <strong>...</strong> from <strong>...</strong></h2>
 
 <div align="center">
-  <!-- غيّر yourusername ليوزر GitHub بتاعك -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <!-- غيّر yourusername -->
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&hide_border=false" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="160" />
 </div>
 
-###
+<br/>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" />
+<!-- ======= Tech Cards ======= -->
+<table align="center">
+  <tr>
+    <td width="48%" valign="top">
+      <h3>🧠 Code</h3>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-05122A?logo=html5&logoColor=E34F26&style=for-the-badge" />
+        <img src="https://img.shields.io/badge/CSS3-05122A?logo=css3&logoColor=1572B6&style=for-the-badge" />
+        <img src="https://img.shields.io/badge/JavaScript-05122A?logo=javascript&logoColor=F7DF1E&style=for-the-badge" />
+        <img src="https://img.shields.io/badge/.NET-05122A?logo=.net&logoColor=512BD4&style=for-the-badge" />
+        <img src="https://img.shields.io/badge/C%23-05122A?logo=csharp&logoColor=239120&style=for-the-badge" />
+        <img src="https://img.shields.io/badge/C++-05122A?logo=cplusplus&logoColor=00599C&style=for-the-badge" />
+      </p>
+      <div>
+        <!-- صف أيقونات كبيرة -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="34" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="34" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="34" />
+      </div>
+    </td>
+    <td width="4%"></td>
+    <td width="48%" valign="top">
+      <h3>🎨 Design</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Figma-0A0A0A?logo=figma&logoColor=white&style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Photoshop-001E36?logo=adobephotoshop&logoColor=31A8FF&style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Illustrator-330000?logo=adobeillustrator&logoColor=FF9A00&style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Adobe%20XD-111?logo=adobexd&logoColor=FF61F6&style=for-the-badge" />
+        <img src="https://img.shields.io/badge/UI%2FUX-Strategy%20%7C%20Wireframes%20%7C%20Prototypes-222?style=for-the-badge" />
+      </p>
+      <div>
+        <!-- صف أيقونات كبيرة -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="34" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="34" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="34" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="34" />
+      </div>
+    </td>
+  </tr>
+</table>
 
-###
+<br/>
 
-<!-- Tech Stack -->
-<div align="left">
-  <!-- Web Core -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
-  <img width="12" />
-  <!-- Frameworks / Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C# logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt=".NET logo" />
+<!-- ======= About mini-section (اختياري) ======= -->
+<div align="center">
+  <details>
+    <summary><strong>More about me</strong></summary>
+    <p>• I love building full-stack apps with .NET + modern JS.<br/>
+       • Passionate about clean UI/UX, wireframing, and prototyping in Figma.<br/>
+       • Open to collab on web dashboards, tooling, and automation.</p>
+  </details>
 </div>
 
-###
+<br/>
 
-<!-- Design Stack -->
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="Photoshop logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="Illustrator logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="30" alt="Adobe XD logo" />
-  <img width="12" />
-  <!-- UI/UX Badge -->
-  <img src="https://img.shields.io/badge/UI%2FUX-Design-8A2BE2?style=for-the-badge" height="28" alt="UI/UX badge" />
+<!-- ======= Socials ======= -->
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
 </div>
 
-###
+<br/>
 
-<!-- Socials (اختياري: اضف روابطك) -->
-<div align="left">
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" /></a>
-</div>
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-###
-
-<br clear="both" />
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<!-- ======= Fun line (اختياري) ======= -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+</p>
