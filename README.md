@@ -1,5 +1,5 @@
 <!-- ======= Header ======= -->
-<h2 align="center">Hi 👋! I'm <strong>...</strong> — a <strong>...</strong> from <strong>...</strong></h2>
+<h2 align="center">Hi 👋! I'm <strong>AHMED KHALIL</strong> — a <strong>WEB DEVELOPER</strong> from <strong>EGYPT</strong></h2>
 
 <div align="center">
   <!-- غيّر yourusername -->
